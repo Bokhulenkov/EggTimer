@@ -1,6 +1,5 @@
 
 # Egg Timer
-___
 
 - This is my project for 8 module Angela
 - UIKit/Storyboard
